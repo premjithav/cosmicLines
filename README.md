@@ -1,4 +1,4 @@
 CosmicLines
 ===========
 
-HTML5 Canvas background for web pages. Demo: http://premjith.in/cosmiclines/
+HTML5 Canvas background for web pages. Demo: [https://premjith.in/cosmicLines/](https://premjith.in/cosmicLines/)
